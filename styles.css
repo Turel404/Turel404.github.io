@@ -60,7 +60,7 @@ ul {
 }
 
 .main-nav ul li a:hover {
-    color: #4CAF50; /* Color de resaltado verde */
+    color: #074D80; /* Color de resaltado azul */
 }
 
 .cta-button {
@@ -73,13 +73,13 @@ ul {
 }
 
 .header-cta {
-    background-color: #2A3F3F; /* Color oscuro principal */
+    background-color: #074D80; /* Color oscuro principal */
     color: #fff;
-    border: 1px solid #2A3F3F;
+    border: 1px solid #074D80;
 }
 
 .header-cta:hover {
-    background-color: #3a5a5a;
+    background-color: #074D80;
 }
 
 
@@ -172,7 +172,7 @@ ul {
 
 /* Services Section */
 .services {
-    background-color: #2A3F3F; /* Color oscuro principal */
+    background-color: #074D80; /* Color oscuro principal */
     color: #fff;
     padding: 60px 0;
     text-align: center;
@@ -196,7 +196,7 @@ ul {
 }
 
 .service-card {
-    background-color: #3a5a5a; /* Un tono ligeramente más claro que el fondo */
+    background-color: #00A1F2; /* Un tono ligeramente más claro que el fondo */
     padding: 30px;
     border-radius: 8px;
     text-align: left;
