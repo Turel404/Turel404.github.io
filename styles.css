@@ -3,11 +3,6 @@
     box-sizing: border-box;
     margin: 0;
     padding: 0;
-}
-.logo img {
-    height: 40px;
-    width: auto; /* Mantiene la proporción */
-}
 
 body {
     font-family: 'Montserrat', sans-serif; /* Fuente de ejemplo */
@@ -44,10 +39,10 @@ ul {
     align-items: center;
 }
 
-.logo {
-    font-weight: 700;
-    font-size: 1.5rem;
-    color: #2A3F3F; /* Color oscuro principal */
+}
+.logo img {
+    height: 40px;
+    width: auto; /* Mantiene la proporción */
 }
 
 .main-nav ul {
