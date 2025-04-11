@@ -172,7 +172,7 @@ ul {
 
 /* Services Section */
 .services {
-    background-color: #074D80; /* Color oscuro principal */
+    background-color: #1F3752; /* Color oscuro principal */
     color: #fff;
     padding: 60px 0;
     text-align: center;
@@ -196,7 +196,7 @@ ul {
 }
 
 .service-card {
-    background-color: #00A1F2; /* Un tono ligeramente más claro que el fondo */
+    background-color: ##074D80; /* Un tono ligeramente más claro que el fondo */
     padding: 30px;
     border-radius: 8px;
     text-align: left;
